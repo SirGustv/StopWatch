@@ -1,0 +1,16 @@
+D:\WorkSpace\cronometro\StopWatch\bin\Debug\net5.0\StopWatch.exe
+D:\WorkSpace\cronometro\StopWatch\bin\Debug\net5.0\StopWatch.deps.json
+D:\WorkSpace\cronometro\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.json
+D:\WorkSpace\cronometro\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.dev.json
+D:\WorkSpace\cronometro\StopWatch\bin\Debug\net5.0\StopWatch.dll
+D:\WorkSpace\cronometro\StopWatch\bin\Debug\net5.0\ref\StopWatch.dll
+D:\WorkSpace\cronometro\StopWatch\bin\Debug\net5.0\StopWatch.pdb
+D:\WorkSpace\cronometro\StopWatch\obj\Debug\net5.0\StopWatch.csproj.AssemblyReference.cache
+D:\WorkSpace\cronometro\StopWatch\obj\Debug\net5.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\cronometro\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfoInputs.cache
+D:\WorkSpace\cronometro\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfo.cs
+D:\WorkSpace\cronometro\StopWatch\obj\Debug\net5.0\StopWatch.csproj.CoreCompileInputs.cache
+D:\WorkSpace\cronometro\StopWatch\obj\Debug\net5.0\StopWatch.dll
+D:\WorkSpace\cronometro\StopWatch\obj\Debug\net5.0\ref\StopWatch.dll
+D:\WorkSpace\cronometro\StopWatch\obj\Debug\net5.0\StopWatch.pdb
+D:\WorkSpace\cronometro\StopWatch\obj\Debug\net5.0\StopWatch.genruntimeconfig.cache
