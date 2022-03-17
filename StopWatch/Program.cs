@@ -12,9 +12,12 @@ namespace StopWatch
         static void Menu()
         {
             Console.Clear();
+            Console.WriteLine("Instruções:");
+            Console.WriteLine("-------------------------------------");
             Console.WriteLine("S => segundo => 10s => 10 segundos");
             Console.WriteLine("M => minuto => 5m => 5 minutos");
             Console.WriteLine("0s => sair");
+            Console.WriteLine("-------------------------------------");
             Console.WriteLine("Quanto tempo deseja contar?");
 
             string data = Console.ReadLine().ToLower();
@@ -32,7 +35,21 @@ namespace StopWatch
                 System.Environment.Exit(0);
             }
 
-            Start(time * multiplyer);
+            PreStart(time * multiplyer);
+        }
+        static void PreStart(int time)
+        {
+            Console.Clear();
+            Console.WriteLine("Ready?");
+            Thread.Sleep(1000);
+            Console.Clear();
+            Console.WriteLine("Set...");
+            Thread.Sleep(1000);
+            Console.Clear();
+            Console.WriteLine("GO!");
+            Thread.Sleep(1000);
+
+            Start(time);
         }
 
         static void Start(int time)
